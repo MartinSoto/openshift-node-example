@@ -1,0 +1,6 @@
+.git
+Dockerfile
+openshift
+/node_modules
+.emacs*
+*~
