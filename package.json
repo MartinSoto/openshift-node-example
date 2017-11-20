@@ -1,0 +1,14 @@
+{
+  "name": "openshift-node-example",
+  "version": "1.0.0",
+  "description": "Hello world for OpenShift",
+  "main": "src/hello.js",
+  "scripts": {
+    "start": "node src/hello.js"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
